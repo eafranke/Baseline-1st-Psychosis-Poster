@@ -1,4 +1,4 @@
-# What happened to patients with a 1st hospitalization for a psychosis at Cambridge Health Alliance (1/1/2019 – 12/31/2020)
+# What happened to patients with a 1st hospitalization for a psychosis at Cambridge Health Alliance (1/1/2019–12/31/2020)
 
 ## About
 
@@ -20,9 +20,15 @@ This repository contains documentation and analysis for a research project exami
 - **First Hospitalization for Psychosis at CHA.pdf**  
   Final research poster summarizing findings, methods, and policy implications.
 
-- **Psychosis Data Preparation & Analysis 7-17-24.do**  
+- **Psychosis Data Preparation & Analysis 7-17-24.do**
   Stata script for cleaning, transforming, and analyzing the psychosis dataset.
 
 ## Data Availability
 
 Due to the sensitive nature of the data used in this project, including protected health information (PHI), the raw datasets are not included in this repository and cannot be shared publicly.
+
+## Contact
+
+**Erik Franke**  
+efranke@falcon.bentley.edu  
+Bentley University Academic Technology Center | Research Assistant
